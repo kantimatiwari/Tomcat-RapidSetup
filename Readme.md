@@ -9,13 +9,13 @@
 </h1>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/tekade-sukant-3343bb252">
+  <a href="https://www.linkedin.com/in/kantima-tiwari">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border-radius: 5px;"/>
   </a>
-  <a href="https://www.instagram.com/muschifresser/" target="_blank">
+  <a href="https://www.instagram.com/_t_t_2003/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-AA336A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://github.com/tekadesukant">
+  <a href="https://github.com/kantimatiwari">
     <img src="https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
